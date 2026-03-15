@@ -1,0 +1,1 @@
+Saya ingin membuat catatan belajar sehingga saat dibutuhkan bisa kembali melihat catatan dengan mudah dan lengkap.Tolong jelaskan langkah demi langkah dari awal sampai akhir dari proses yang berjalan pada jupyter notebook dalam konteks. Jelaskan konsep fundamental, buat dalam poin-poin yang mudah dipahami, sertakan ilustrasi atau kode jika perlu.
